@@ -66,6 +66,6 @@ Type `rails db:migrate` into the terminal and press Enter. You should see the da
 
 ![Migrate](images/migrate.png)
 
-If all went well you should now be able to click on the name of your application which links to the live server.
+If all went well you should now be able to click on the `Live App` button which links to the live server.
 
 ![Tada](images/fin.png)
